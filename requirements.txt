@@ -1,0 +1,6 @@
+imutils==0.5.3
+pytesseract==0.3.6
+pillow==8.0.1
+numpy==1.19.3
+opencv-python==4.4.0.44
+pyautogui==0.9.52
